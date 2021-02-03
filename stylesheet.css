@@ -1,11 +1,18 @@
-.img-thumbnail {
-    object-fit: none;
-    object-position: center;
-    width: 100%;
-    max-height: 250px;
-    margin-bottom: 1rem;
-}
+.graph-card{
+    width:50%;
+    margin: auto;
 
+}
 body{
-    background: darkgray;
+    padding: 50px;
+}
+footer{
+    margin: 10px;
+
+}
+.graph-card{
+    margin-bottom: 0;
+}
+#end-btn{
+    margin: 20px;
 }
