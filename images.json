@@ -1,0 +1,45 @@
+{
+  "photos":
+  [
+    {
+      "src": "images/hands.jpg",
+      "title": "Hands of hope",
+      "description": "Hands of hope in black and white (Photo by Wendy Wei from Pexels)"
+    },
+    {
+      "src": "images/neon.jpg",
+      "title": "Neon Hand",
+      "description": "Rainy street and orange neon (Photo by Ellie Burgin from Pexels)"
+    },
+    {
+      "src": "images/covid.jpg",
+      "title": "New normal",
+      "description": "Staying safe in these trying times (Photo by cottonbro from Pexels)"
+    },
+    {
+      "src": "images/cat.jpg",
+      "title": "Cat",
+      "description": "Sweet,sweet dreams (Photo by Anete Lusina from Pexels)"
+    },
+    {
+      "src": "images/painter.jpg",
+      "title": "Painting",
+      "description": "Painting brush with white color (Photo by Kaboompics .com from Pexels)"
+    },
+    {
+      "src": "images/desk.jpg",
+      "title": "Desk",
+      "description": "Rose on aesthetic desk (Photo by Lum3n from Pexels)"
+    },
+    {
+      "src": "images/eye.jpg",
+      "title": "Light spectrum",
+      "description": "Rainbow on face (Photo by The Devil from Pexels)"
+    },
+    {
+      "src": "images/message.jpg",
+      "title": "It's urgent!",
+      "description": "Mail came today, bad news !(Photo by sl wong from Pexels)"
+    }
+  ]
+}
